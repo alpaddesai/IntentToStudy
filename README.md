@@ -1,4 +1,4 @@
-# Intent To Study
+# Intent to Study
 
 ![image](IntenttoStudy.jpg)
 
